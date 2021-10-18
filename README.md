@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @Amlan-Bora
-- 👀 I’m interested in web development and competitive pogramming 
-- 🌱 I’m currently learning full stack web development using MERN Stack 
-- 💞️ I’m looking to collaborate on React JS projects and Javascript Projects
-- 📫 How to reach me- Contact me @Amlan4391@gmail.com
+- 👋 Hi, I’m Amlan ! 
+- 👀 I’m a CS Engineering student and a React Developer 
+- 🌱 Passionate about Web Development, UI/UX Design and Music
+- 🌱 I’m currently learning MERN Stack Web App Development
+- 💞️ I’m looking to collaborate on React JS and Javascript Projects
+
+- 📫 How to reach me- 
+[Mail](mailto:Amlan4391@gmail.com)
+
+[LinkedIn](https://www.linkedin.com/in/amlanjyoti-bora/)
+
 
 <!---
 Amlan-Bora/Amlan-Bora is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
