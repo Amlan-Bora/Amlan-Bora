@@ -6,15 +6,15 @@
 
 - 🔭 I’m currently working on **LiveChat**
 
-- 🌱 I’m currently learning **React JS, Next JS**
+- 🌱 I’m currently learning **React JS, Next JS, UI/UX Design**
 
-- 👯 I’m looking to collaborate on **React JS projects**
+<!-- - 👯 I’m looking to collaborate on **React JS projects** -->
 
-- 🤝 I’m looking for help with **Open Source contributions in React JS**
+- 🤝 I’m looking for help with **Open Source contributions in React JS projects**
 
 - 📝 I write articles on [https://dev.to/amlandev10](https://dev.to/amlandev10)
 
-- 💬 Ask me about **HTML, CSS , Javascript, DSA**
+<!-- - 💬 Ask me about **HTML, CSS , Javascript, DSA** -->
 
 - 📫 How to reach me **amlan4391@gmail.com**
 
