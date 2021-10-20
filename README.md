@@ -22,6 +22,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+https://dev.to/amlandev10/most-commonly-used-commands-for-npm-and-yarn--36h9
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
