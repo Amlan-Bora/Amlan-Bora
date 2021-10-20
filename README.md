@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Open Source contributions in React JS projects**
 
-- 📝 I write articles on [https://dev.to/amlandev10](https://dev.to/amlandev10)
+- 📝 I write articles on [DEV.to/amlandev10](https://dev.to/amlandev10)
 
 <!-- - 💬 Ask me about **HTML, CSS , Javascript, DSA** -->
 
