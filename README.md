@@ -20,9 +20,9 @@
 
 - ⚡ Fun fact **I am a musician and I love to sing!**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-https://dev.to/amlandev10/most-commonly-used-commands-for-npm-and-yarn--36h9
+
+# Blog posts
+<!-- BLOG-POST-LIST:START --> 
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
