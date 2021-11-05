@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amlan</h1>
-<h3 align="center">A CS Engineering student and a React Developer .</h3>
+<h3 align="center">A CS Engineering student and a React JS Developer .</h3>
 
 
 <p align="left"> <a href="https://twitter.com/amlandev10" target="blank"><img src="https://img.shields.io/twitter/follow/amlandev10?logo=twitter&style=for-the-badge" alt="amlandev10" /></a> </p>
